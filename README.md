@@ -73,6 +73,13 @@ understand customer behavior and improve targeted marketing strategies.
 This project demonstrates how **unsupervised learning (K-Means clustering)** can be used to understand customer behavior.  
 These insights can help businesses design better marketing strategies, improve customer targeting, and increase revenue.
 
+## 💡 Business Recommendations
+
+- Focus marketing on **High Income – High Spending** customers as they are the most valuable segment.
+- Offer loyalty programs for **Low Income – High Spending** customers to improve retention.
+- Provide discounts and promotions for **Low Income – Low Spending** customers to increase engagement.
+- Target **High Income – Low Spending** customers with premium campaigns to increase spending behavior.
+
 ---
 
 ## 📎 Skills Demonstrated
